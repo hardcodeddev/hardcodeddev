@@ -29,7 +29,7 @@
 ---
 
 ## 📫 Let's Connect!  
-💼 **GitHub:** [github.com/yourusername](https://github.com/hardcodeddev)  
+💼 **GitHub:** [github.com/hardcodeddev](https://github.com/hardcodeddev)  
 📧 **Email:** prestonfernando@gmail.com 
 🎶 **Let’s talk tech, music, and automation!**  
 
